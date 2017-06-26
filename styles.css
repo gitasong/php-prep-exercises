@@ -1,0 +1,47 @@
+font-family: 'Trocchi', serif;
+font-family: 'Spectral', serif;
+
+p.address{
+  color: teal;
+}
+
+p.order {
+  color: sienna;
+}
+
+h1, h2 {
+  font-family: 'Trocchi', serif;
+  color: maroon;
+}
+
+p {
+  font-family: 'Spectral', serif;
+  font-size: 18px;
+  font-weight: 300;
+  color: teal;
+}
+
+#card {
+  border: 3px solid black;
+  min-width: 400px;
+  min-height: 250px;
+  font-size: 30px;
+  font-family: helvetica;
+}
+
+.card_header {
+  margin-left: 10px;
+}
+
+.card_text {
+  margin-top: 60px;
+  text-align: center;
+  font-style: italic;
+}
+
+.contact {
+  margin-top: 60px;
+  margin-right: 10px;
+  text-align: right;
+  font-style: bold;
+}
